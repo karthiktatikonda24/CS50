@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "cs50.h"
 
-// 1. THE SNEAK PEEK (Function Prototype)
+// 1.Function Prototype
 // C reads code from top to bottom. Because our real 'meow' function is down at the bottom,
 // we must put this line here to warn the compiler: "Hey, I made a custom function called meow.
 // It doesn't give back a value (void), and it expects a whole number (int) as an input."
@@ -18,7 +18,7 @@ int main (void)
     meow(n);
 }
 
-// 4. THE CUSTOM ENGINE (Function Definition)
+// 4.Function Definition
 // This is the actual blueprint of our custom shortcut. 
 // Whatever number was passed into the parentheses above gets copied directly into a brand-new 
 // variable called 'times' that only exists inside this specific box of code.
