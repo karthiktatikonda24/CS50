@@ -21,7 +21,7 @@ int main (void)
 
 
 // have no comments for this
-// All the best
+// All the best!!
 
 //THANKYOU 
 //AUTHOR KARTHIK(IITPATNA)
