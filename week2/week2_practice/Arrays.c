@@ -21,3 +21,4 @@ int main (void)
     }
     printf("Average: %f\n", average(N,scores));
 }
+
